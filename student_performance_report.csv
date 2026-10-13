@@ -1,0 +1,21 @@
+Student_ID,Name,Department,Math,Physics,Chemistry,Computer_Science,English,Attendance,Total_Marks,Average_Marks,Grade,Result
+101,Aarav Sharma,CSE,92,88,85,96,89,95,450,90.0,A+,Pass
+102,Ananya Das,CSE,85,91,87,93,90,92,446,89.2,A,Pass
+103,Rohan Sen,IT,78,82,80,85,76,88,401,80.2,A,Pass
+104,Priya Roy,CSE,96,94,92,98,95,98,475,95.0,A+,Pass
+105,Arjun Ghosh,IT,65,70,68,75,72,80,350,70.0,B,Pass
+106,Sneha Paul,CSE,88,86,90,92,87,94,443,88.6,A,Pass
+107,Rahul Dutta,IT,45,52,48,55,60,72,260,52.0,D,Pass
+108,Ishita Bose,CSE,91,89,94,97,92,96,463,92.6,A+,Pass
+109,Sourav Mitra,IT,72,68,75,78,70,85,363,72.6,B,Pass
+110,Meera Banerjee,CSE,84,87,86,90,88,91,435,87.0,A,Pass
+111,Aditya Roy,IT,55,58,62,60,64,78,299,59.8,D,Pass
+112,Diya Mukherjee,CSE,98,96,95,99,97,99,485,97.0,A+,Pass
+113,Abhishek Das,IT,35,42,38,45,50,65,210,42.0,F,Fail
+114,Riya Chatterjee,CSE,89,92,90,94,91,97,456,91.2,A+,Pass
+115,Aniket Saha,IT,76,74,79,81,77,89,387,77.4,B,Pass
+116,Kavya Sen,CSE,93,95,91,96,94,98,469,93.8,A+,Pass
+117,Debjit Paul,IT,62,65,58,70,66,82,321,64.2,C,Pass
+118,Simran Kaur,CSE,87,90,88,91,93,95,449,89.8,A,Pass
+119,Niloy Ghosh,IT,81,79,84,86,80,90,410,82.0,A,Pass
+120,Tanisha Roy,CSE,94,91,96,98,95,97,474,94.8,A+,Pass
